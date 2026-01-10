@@ -25,7 +25,7 @@
 
 ### 💼 Professional Experience
 - **Research Assistant** — IDEAL Lab, NYUST (2024–Present)  
-  Applied AI to smart agriculture, water quality, UAV salinity, and biomass forecasting.
+  Applied AI to smart agriculture.
 
 - **Programmer Analyst Trainee** — Cognizant (2023–2024)  
   Backend & UI development using Spring Boot, Angular, and Temenos T24.
