@@ -44,7 +44,7 @@ React + Vite  →  FastAPI (Render)  →  RunPod Serverless GPU  →  Supabase
 
 ## 📄 Research
 
-**TCAN-AgriCloud** · *IEEE CloudCom 2025* · 🏆 **Best Paper Award**
+**TCAN-AgriCloud** · *IEEE CloudCom 2025* · 🏆 **Best Paper Award** · [IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11331491)
 > TCN + KAN hybrid for spatio-temporal crop yield prediction with SHAP interpretability.
 > Deployed on cloud infrastructure for real-world agricultural forecasting.
 
