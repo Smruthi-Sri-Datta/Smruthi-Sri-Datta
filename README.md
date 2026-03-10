@@ -9,6 +9,9 @@
   <a href="https://linkedin.com/in/smruthisridatta">
     <img src="https://img.shields.io/badge/LinkedIn-smruthisridatta-0077B5?style=flat&logo=linkedin" />
   </a>
+  <a href="https://smruthi-sri-datta.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-smruthi--sri--datta.github.io-e8a020?style=flat&logo=github" />
+  </a>
   <a href="https://voiceforge-gamma.vercel.app">
     <img src="https://img.shields.io/badge/VoiceForge-Live%20Demo-7c3aed?style=flat&logo=vercel" />
   </a>
@@ -82,7 +85,7 @@ React + Vite  →  FastAPI (Render)  →  RunPod Serverless GPU  →  Supabase
 
 ## 🎓 Education
 
-**M.S. Artificial Intelligence** · Taiwan
+**M.S. Artificial Intelligence** · Taiwan 
 
 **B.E. Electronics & Instrumentation** · India
 
@@ -92,4 +95,6 @@ React + Vite  →  FastAPI (Render)  →  RunPod Serverless GPU  →  Supabase
 
 I'm actively looking for **AI Engineer, ML Engineer, Data Scientist, or Full Stack AI** roles — in Taiwan or remote.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-smruthi--sri--datta.github.io-e8a020?style=flat&logo=github)](https://smruthi-sri-datta.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/smruthisridatta)
+[![Email](https://img.shields.io/badge/Email-dattasmruthi%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dattasmruthi@gmail.com)
